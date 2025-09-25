@@ -1,0 +1,1012 @@
+ {
+  "Muhammad_Khairul_Ihsan_V3925031": {
+    "media_sosial": [
+      {
+        "id_post": "MS001",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#DemoDamai",
+        "geotag": "-6.200000, 106.816666",
+        "sentimen": "positif",
+        "topik": "aspirasi_rakyat",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 10:00:00"
+      },
+      {
+        "id_post": "MS002",
+        "platform": "Instagram",
+        "jenis_konten": "foto",
+        "hashtag": "#TolakUU",
+        "geotag": "-6.175392, 106.827153",
+        "sentimen": "negatif",
+        "topik": "ketidakpuasan_kebijakan",
+        "potensi_kondisi": "rawan",
+        "waktu": "2023-10-26 11:30:00"
+      },
+      {
+        "id_post": "MS003",
+        "platform": "Tiktok",
+        "jenis_konten": "video",
+        "hashtag": "#MahasiswaBergerak",
+        "geotag": "-6.208763, 106.845590",
+        "sentimen": "netral",
+        "topik": "seruan_aksi",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 09:15:00"
+      },
+      {
+        "id_post": "MS004",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#SuaraRakyat",
+        "geotag": "-6.210000, 106.830000",
+        "sentimen": "positif",
+        "topik": "dukungan_demo",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 10:30:00"
+      },
+      {
+        "id_post": "MS005",
+        "platform": "Instagram",
+        "jenis_konten": "foto",
+        "hashtag": "#Reformasi",
+        "geotag": "-6.170000, 106.820000",
+        "sentimen": "negatif",
+        "topik": "tuntutan_perubahan",
+        "potensi_kondisi": "rawan",
+        "waktu": "2023-10-26 12:00:00"
+      },
+      {
+        "id_post": "MS006",
+        "platform": "Tiktok",
+        "jenis_konten": "video",
+        "hashtag": "#AksiDamai",
+        "geotag": "-6.205000, 106.840000",
+        "sentimen": "netral",
+        "topik": "liputan_demo",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 09:45:00"
+      },
+      {
+        "id_post": "MS007",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#Keadilan",
+        "geotag": "-6.190000, 106.810000",
+        "sentimen": "positif",
+        "topik": "isu_keadilan",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 11:00:00"
+      },
+      {
+        "id_post": "MS008",
+        "platform": "Instagram",
+        "jenis_konten": "foto",
+        "hashtag": "#TolakKorupsi",
+        "geotag": "-6.180000, 106.830000",
+        "sentimen": "negatif",
+        "topik": "anti_korupsi",
+        "potensi_kondisi": "rawan",
+        "waktu": "2023-10-26 12:30:00"
+      },
+      {
+        "id_post": "MS009",
+        "platform": "Tiktok",
+        "jenis_konten": "video",
+        "hashtag": "#DemoJakarta",
+        "geotag": "-6.215000, 106.850000",
+        "sentimen": "netral",
+        "topik": "situasi_demo",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 10:15:00"
+      },
+      {
+        "id_post": "MS010",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#HakAsasi",
+        "geotag": "-6.200000, 106.825000",
+        "sentimen": "positif",
+        "topik": "isu_HAM",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 11:15:00"
+      },
+      {
+        "id_post": "MS011",
+        "platform": "Instagram",
+        "jenis_konten": "foto",
+        "hashtag": "#MosiTidakPercaya",
+        "geotag": "-6.178000, 106.828000",
+        "sentimen": "negatif",
+        "topik": "kritik_pemerintah",
+        "potensi_kondisi": "rawan",
+        "waktu": "2023-10-26 12:45:00"
+      },
+      {
+        "id_post": "MS012",
+        "platform": "Tiktok",
+        "jenis_konten": "video",
+        "hashtag": "#RakyatBersatu",
+        "geotag": "-6.210000, 106.848000",
+        "sentimen": "netral",
+        "topik": "persatuan_massa",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 10:45:00"
+      },
+      {
+        "id_post": "MS013",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#Perubahan",
+        "geotag": "-6.195000, 106.815000",
+        "sentimen": "positif",
+        "topik": "tuntutan_perubahan",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 11:45:00"
+      },
+      {
+        "id_post": "MS014",
+        "platform": "Instagram",
+        "jenis_konten": "foto",
+        "hashtag": "#TolakOmnibusLaw",
+        "geotag": "-6.172000, 106.822000",
+        "sentimen": "negatif",
+        "topik": "penolakan_kebijakan",
+        "potensi_kondisi": "rawan",
+        "waktu": "2023-10-26 13:00:00"
+      },
+      {
+        "id_post": "MS015",
+        "platform": "Tiktok",
+        "jenis_konten": "video",
+        "hashtag": "#DemoHariIni",
+        "geotag": "-6.207000, 106.842000",
+        "sentimen": "netral",
+        "topik": "update_demo",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 11:00:00"
+      },
+      {
+        "id_post": "MS016",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#Demokrasi",
+        "geotag": "-6.202000, 106.818000",
+        "sentimen": "positif",
+        "topik": "isu_demokrasi",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 12:15:00"
+      },
+      {
+        "id_post": "MS017",
+        "platform": "Instagram",
+        "jenis_konten": "foto",
+        "hashtag": "#PemerintahGagal",
+        "geotag": "-6.176000, 106.825000",
+        "sentimen": "negatif",
+        "topik": "kritik_kinerja",
+        "potensi_kondisi": "rawan",
+        "waktu": "2023-10-26 13:15:00"
+      },
+      {
+        "id_post": "MS018",
+        "platform": "Tiktok",
+        "jenis_konten": "video",
+        "hashtag": "#SuaraMahasiswa",
+        "geotag": "-6.212000, 106.852000",
+        "sentimen": "netral",
+        "topik": "aspirasi_mahasiswa",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 11:30:00"
+      },
+      {
+        "id_post": "MS019",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#TegakkanHukum",
+        "geotag": "-6.198000, 106.812000",
+        "sentimen": "positif",
+        "topik": "penegakan_hukum",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 12:45:00"
+      },
+      {
+        "id_post": "MS020",
+        "platform": "Instagram",
+        "jenis_konten": "foto",
+        "hashtag": "#TolakKriminalisasi",
+        "geotag": "-6.174000, 106.823000",
+        "sentimen": "negatif",
+        "topik": "isu_kriminalisasi",
+        "potensi_kondisi": "rawan",
+        "waktu": "2023-10-26 13:30:00"
+      },
+      {
+        "id_post": "MS021",
+        "platform": "Tiktok",
+        "jenis_konten": "video",
+        "hashtag": "#AksiRakyat",
+        "geotag": "-6.209000, 106.841000",
+        "sentimen": "netral",
+        "topik": "gerakan_rakyat",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 11:45:00"
+      },
+      {
+        "id_post": "MS022",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#PemerintahDengar",
+        "geotag": "-6.201000, 106.817000",
+        "sentimen": "positif",
+        "topik": "seruan_pemerintah",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 13:00:00"
+      },
+      {
+        "id_post": "MS023",
+        "platform": "Instagram",
+        "jenis_konten": "foto",
+        "hashtag": "#CabutUU",
+        "geotag": "-6.177000, 106.826000",
+        "sentimen": "negatif",
+        "topik": "tuntutan_pencabutan_UU",
+        "potensi_kondisi": "rawan",
+        "waktu": "2023-10-26 13:45:00"
+      },
+      {
+        "id_post": "MS024",
+        "platform": "Tiktok",
+        "jenis_konten": "video",
+        "hashtag": "#Solidaritas",
+        "geotag": "-6.211000, 106.851000",
+        "sentimen": "netral",
+        "topik": "dukungan_solidaritas",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 12:00:00"
+      },
+      {
+        "id_post": "MS025",
+        "platform": "Twitter/X",
+        "jenis_konten": "teks",
+        "hashtag": "#MasaDepan",
+        "geotag": "-6.199000, 106.813000",
+        "sentimen": "positif",
+        "topik": "harapan_masa_depan",
+        "potensi_kondisi": "damai",
+        "waktu": "2023-10-26 13:15:00"
+      }
+    ],
+    "pelaporan_warga": [
+      {
+        "id_laporan": "PW001",
+        "narasi": "Massa mulai berkumpul di depan gedung DPR, jumlah sekitar 500 orang. Situasi masih kondusif.",
+        "lokasi": "-6.174982, 106.827153",
+        "foto_url": "https://example.com/foto/pw001.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 09:00:00",
+        "jumlah_massa": 500,
+        "situasi_keamanan": "kondusif"
+      },
+      {
+        "id_laporan": "PW002",
+        "narasi": "Terjadi penutupan jalan di sekitar Bundaran HI, ada sekitar 200 orang membawa spanduk.",
+        "lokasi": "-6.194444, 106.822222",
+        "foto_url": "https://example.com/foto/pw002.jpg",
+        "status": "belum_diverifikasi",
+        "waktu_laporan": "2023-10-26 09:30:00",
+        "jumlah_massa": 200,
+        "situasi_keamanan": "terkendali"
+      },
+      {
+        "id_laporan": "PW003",
+        "narasi": "Ada kerumunan kecil di depan kantor gubernur, sekitar 50 orang. Tidak ada tanda-tanda kerusuhan.",
+        "lokasi": "-6.175000, 106.827000",
+        "foto_url": "https://example.com/foto/pw003.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 10:00:00",
+        "jumlah_massa": 50,
+        "situasi_keamanan": "aman"
+      },
+      {
+        "id_laporan": "PW004",
+        "narasi": "Massa semakin banyak di depan DPR, perkiraan 1000 orang. Beberapa orasi mulai disampaikan.",
+        "lokasi": "-6.174982, 106.827153",
+        "foto_url": "https://example.com/foto/pw004.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 10:15:00",
+        "jumlah_massa": 1000,
+        "situasi_keamanan": "kondusif"
+      },
+      {
+        "id_laporan": "PW005",
+        "narasi": "Terlihat ada pembakaran ban di jalan Sudirman, dekat patung kuda. Jumlah massa belum jelas.",
+        "lokasi": "-6.187000, 106.820000",
+        "foto_url": "https://example.com/foto/pw005.jpg",
+        "status": "belum_diverifikasi",
+        "waktu_laporan": "2023-10-26 10:45:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "rawan"
+      },
+      {
+        "id_laporan": "PW006",
+        "narasi": "Polisi mulai berjaga di sekitar Monas, antisipasi pergerakan massa.",
+        "lokasi": "-6.175000, 106.827000",
+        "foto_url": "https://example.com/foto/pw006.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 11:00:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "siaga"
+      },
+      {
+        "id_laporan": "PW007",
+        "narasi": "Massa dari arah Salemba bergabung dengan massa di Bundaran HI.",
+        "lokasi": "-6.194444, 106.822222",
+        "foto_url": "https://example.com/foto/pw007.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 11:15:00",
+        "jumlah_massa": 1500,
+        "situasi_keamanan": "kondusif"
+      },
+      {
+        "id_laporan": "PW008",
+        "narasi": "Ada provokasi kecil di barisan depan demo DPR, namun berhasil diredam.",
+        "lokasi": "-6.174982, 106.827153",
+        "foto_url": "https://example.com/foto/pw008.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 11:45:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "terkendali"
+      },
+      {
+        "id_laporan": "PW009",
+        "narasi": "Lalu lintas di jalan Thamrin mulai padat merayap karena demo.",
+        "lokasi": "-6.190000, 106.820000",
+        "foto_url": "https://example.com/foto/pw009.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 12:00:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "lancar_terbatas"
+      },
+      {
+        "id_laporan": "PW010",
+        "narasi": "Beberapa peserta demo terlihat membawa atribut yang tidak biasa.",
+        "lokasi": "-6.175000, 106.827000",
+        "foto_url": "https://example.com/foto/pw010.jpg",
+        "status": "belum_diverifikasi",
+        "waktu_laporan": "2023-10-26 12:15:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "waspada"
+      },
+      {
+        "id_laporan": "PW011",
+        "narasi": "Massa di Bundaran HI mulai bergerak menuju Istana Negara.",
+        "lokasi": "-6.194444, 106.822222",
+        "foto_url": "https://example.com/foto/pw011.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 12:30:00",
+        "jumlah_massa": 2000,
+        "situasi_keamanan": "kondusif"
+      },
+      {
+        "id_laporan": "PW012",
+        "narasi": "Ada ambulans disiagakan di sekitar lokasi demo DPR.",
+        "lokasi": "-6.174982, 106.827153",
+        "foto_url": "https://example.com/foto/pw012.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 12:45:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "siaga"
+      },
+      {
+        "id_laporan": "PW013",
+        "narasi": "Penjagaan ketat di pintu masuk Istana Negara.",
+        "lokasi": "-6.169000, 106.827000",
+        "foto_url": "https://example.com/foto/pw013.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 13:00:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "siaga"
+      },
+      {
+        "id_laporan": "PW014",
+        "narasi": "Massa di depan Istana Negara mulai berorasi dengan pengeras suara.",
+        "lokasi": "-6.169000, 106.827000",
+        "foto_url": "https://example.com/foto/pw014.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 13:15:00",
+        "jumlah_massa": 2500,
+        "situasi_keamanan": "kondusif"
+      },
+      {
+        "id_laporan": "PW015",
+        "narasi": "Beberapa pedagang asongan memanfaatkan keramaian demo.",
+        "lokasi": "-6.174982, 106.827153",
+        "foto_url": "https://example.com/foto/pw015.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 13:30:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "aman"
+      },
+      {
+        "id_laporan": "PW016",
+        "narasi": "Terjadi sedikit dorong-dorongan di barisan belakang demo Istana.",
+        "lokasi": "-6.169000, 106.827000",
+        "foto_url": "https://example.com/foto/pw016.jpg",
+        "status": "belum_diverifikasi",
+        "waktu_laporan": "2023-10-26 13:45:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "rawan"
+      },
+      {
+        "id_laporan": "PW017",
+        "narasi": "Petugas kebersihan mulai membersihkan sampah di sekitar lokasi demo DPR.",
+        "lokasi": "-6.174982, 106.827153",
+        "foto_url": "https://example.com/foto/pw017.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 14:00:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "aman"
+      },
+      {
+        "id_laporan": "PW018",
+        "narasi": "Massa mulai membubarkan diri secara tertib dari Istana Negara.",
+        "lokasi": "-6.169000, 106.827000",
+        "foto_url": "https://example.com/foto/pw018.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 14:30:00",
+        "jumlah_massa": 1000,
+        "situasi_keamanan": "kondusif"
+      },
+      {
+        "id_laporan": "PW019",
+        "narasi": "Lalu lintas di jalan Thamrin kembali normal setelah demo bubar.",
+        "lokasi": "-6.190000, 106.820000",
+        "foto_url": "https://example.com/foto/pw019.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 15:00:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "normal"
+      },
+      {
+        "id_laporan": "PW020",
+        "narasi": "Beberapa peserta demo masih terlihat di sekitar stasiun MRT.",
+        "lokasi": "-6.200000, 106.810000",
+        "foto_url": "https://example.com/foto/pw020.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 15:15:00",
+        "jumlah_massa": 50,
+        "situasi_keamanan": "aman"
+      },
+      {
+        "id_laporan": "PW021",
+        "narasi": "Ada laporan kehilangan dompet di area demo DPR.",
+        "lokasi": "-6.174982, 106.827153",
+        "foto_url": "https://example.com/foto/pw021.jpg",
+        "status": "belum_diverifikasi",
+        "waktu_laporan": "2023-10-26 15:30:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "aman"
+      },
+      {
+        "id_laporan": "PW022",
+        "narasi": "Petugas medis menangani peserta demo yang kelelahan.",
+        "lokasi": "-6.169000, 106.827000",
+        "foto_url": "https://example.com/foto/pw022.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 15:45:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "aman"
+      },
+      {
+        "id_laporan": "PW023",
+        "narasi": "Beberapa spanduk demo masih terpasang di pagar DPR.",
+        "lokasi": "-6.174982, 106.827153",
+        "foto_url": "https://example.com/foto/pw023.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 16:00:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "aman"
+      },
+      {
+        "id_laporan": "PW024",
+        "narasi": "Arus lalu lintas di sekitar Bundaran HI sudah lancar.",
+        "lokasi": "-6.194444, 106.822222",
+        "foto_url": "https://example.com/foto/pw024.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 16:15:00",
+        "jumlah_massa": null,
+        "situasi_keamanan": "normal"
+      },
+      {
+        "id_laporan": "PW025",
+        "narasi": "Tidak ada lagi kerumunan massa di depan Istana Negara.",
+        "lokasi": "-6.169000, 106.827000",
+        "foto_url": "https://example.com/foto/pw025.jpg",
+        "status": "diverifikasi",
+        "waktu_laporan": "2023-10-26 16:30:00",
+        "jumlah_massa": 0,
+        "situasi_keamanan": "aman"
+      }
+    ],
+    "cctv_kamera_smart_city": [
+      {
+        "id_kamera": "CCTV001",
+        "lokasi": "-6.174982, 106.827153",
+        "waktu": "2023-10-26 09:05:00",
+        "jumlah_orang": 550,
+        "pergerakan_massa": "bergerak_menuju_timur",
+        "intensitas_kerumunan": "sedang",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV002",
+        "lokasi": "-6.194444, 106.822222",
+        "waktu": "2023-10-26 09:35:00",
+        "jumlah_orang": 220,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV003",
+        "lokasi": "-6.175000, 106.827000",
+        "waktu": "2023-10-26 10:05:00",
+        "jumlah_orang": 60,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "sangat_rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV004",
+        "lokasi": "-6.174982, 106.827153",
+        "waktu": "2023-10-26 10:20:00",
+        "jumlah_orang": 1100,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "tinggi",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV005",
+        "lokasi": "-6.187000, 106.820000",
+        "waktu": "2023-10-26 10:50:00",
+        "jumlah_orang": 80,
+        "pergerakan_massa": "bergerak_acak",
+        "intensitas_kerumunan": "sedang",
+        "deteksi_pola": "potensi_kerusuhan"
+      },
+      {
+        "id_kamera": "CCTV006",
+        "lokasi": "-6.175000, 106.827000",
+        "waktu": "2023-10-26 11:05:00",
+        "jumlah_orang": 150,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV007",
+        "lokasi": "-6.194444, 106.822222",
+        "waktu": "2023-10-26 11:20:00",
+        "jumlah_orang": 1600,
+        "pergerakan_massa": "bergerak_menuju_barat",
+        "intensitas_kerumunan": "sangat_tinggi",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV008",
+        "lokasi": "-6.174982, 106.827153",
+        "waktu": "2023-10-26 11:50:00",
+        "jumlah_orang": 1050,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "tinggi",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV009",
+        "lokasi": "-6.190000, 106.820000",
+        "waktu": "2023-10-26 12:05:00",
+        "jumlah_orang": 300,
+        "pergerakan_massa": "bergerak_lambat",
+        "intensitas_kerumunan": "sedang",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV010",
+        "lokasi": "-6.175000, 106.827000",
+        "waktu": "2023-10-26 12:20:00",
+        "jumlah_orang": 70,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "sangat_rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV011",
+        "lokasi": "-6.194444, 106.822222",
+        "waktu": "2023-10-26 12:35:00",
+        "jumlah_orang": 2100,
+        "pergerakan_massa": "bergerak_menuju_utara",
+        "intensitas_kerumunan": "sangat_tinggi",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV012",
+        "lokasi": "-6.174982, 106.827153",
+        "waktu": "2023-10-26 12:50:00",
+        "jumlah_orang": 1000,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "tinggi",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV013",
+        "lokasi": "-6.169000, 106.827000",
+        "waktu": "2023-10-26 13:05:00",
+        "jumlah_orang": 500,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "sedang",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV014",
+        "lokasi": "-6.169000, 106.827000",
+        "waktu": "2023-10-26 13:20:00",
+        "jumlah_orang": 2600,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "sangat_tinggi",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV015",
+        "lokasi": "-6.174982, 106.827153",
+        "waktu": "2023-10-26 13:35:00",
+        "jumlah_orang": 950,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "tinggi",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV016",
+        "lokasi": "-6.169000, 106.827000",
+        "waktu": "2023-10-26 13:50:00",
+        "jumlah_orang": 2550,
+        "pergerakan_massa": "bergerak_acak",
+        "intensitas_kerumunan": "sangat_tinggi",
+        "deteksi_pola": "potensi_kerusuhan"
+      },
+      {
+        "id_kamera": "CCTV017",
+        "lokasi": "-6.174982, 106.827153",
+        "waktu": "2023-10-26 14:05:00",
+        "jumlah_orang": 900,
+        "pergerakan_massa": "bergerak_membubar",
+        "intensitas_kerumunan": "sedang",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV018",
+        "lokasi": "-6.169000, 106.827000",
+        "waktu": "2023-10-26 14:35:00",
+        "jumlah_orang": 1100,
+        "pergerakan_massa": "bergerak_membubar",
+        "intensitas_kerumunan": "tinggi",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV019",
+        "lokasi": "-6.190000, 106.820000",
+        "waktu": "2023-10-26 15:05:00",
+        "jumlah_orang": 100,
+        "pergerakan_massa": "normal",
+        "intensitas_kerumunan": "rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV020",
+        "lokasi": "-6.200000, 106.810000",
+        "waktu": "2023-10-26 15:20:00",
+        "jumlah_orang": 60,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "sangat_rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV021",
+        "lokasi": "-6.174982, 106.827153",
+        "waktu": "2023-10-26 15:35:00",
+        "jumlah_orang": 50,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "sangat_rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV022",
+        "lokasi": "-6.169000, 106.827000",
+        "waktu": "2023-10-26 15:50:00",
+        "jumlah_orang": 30,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "sangat_rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV023",
+        "lokasi": "-6.174982, 106.827153",
+        "waktu": "2023-10-26 16:05:00",
+        "jumlah_orang": 20,
+        "pergerakan_massa": "statis",
+        "intensitas_kerumunan": "sangat_rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV024",
+        "lokasi": "-6.194444, 106.822222",
+        "waktu": "2023-10-26 16:20:00",
+        "jumlah_orang": 10,
+        "pergerakan_massa": "normal",
+        "intensitas_kerumunan": "sangat_rendah",
+        "deteksi_pola": "normal"
+      },
+      {
+        "id_kamera": "CCTV025",
+        "lokasi": "-6.169000, 106.827000",
+        "waktu": "2023-10-26 16:35:00",
+        "jumlah_orang": 5,
+        "pergerakan_massa": "normal",
+        "intensitas_kerumunan": "sangat_rendah",
+        "deteksi_pola": "normal"
+      }
+    ],
+    "layanan_navigasi": [
+      {
+        "id_data_lalu_lintas": "LN001",
+        "lokasi": "Jalan Gatot Subroto",
+        "waktu": "2023-10-26 09:00:00",
+        "kondisi_lalu_lintas": "macet_total",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "tinggi",
+        "jalur_alternatif": ["Jalan Rasuna Said", "Jalan MT Haryono"]
+      },
+      {
+        "id_data_lalu_lintas": "LN002",
+        "lokasi": "Bundaran HI",
+        "waktu": "2023-10-26 09:30:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": true,
+        "rute_terputus": true,
+        "dampak_demo": "sangat_tinggi",
+        "jalur_alternatif": ["Jalan Imam Bonjol", "Jalan Kebon Sirih"]
+      },
+      {
+        "id_data_lalu_lintas": "LN003",
+        "lokasi": "Jalan Sudirman",
+        "waktu": "2023-10-26 10:00:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Senopati", "Jalan Jenderal Sudirman (jalur lambat)"]
+      },
+      {
+        "id_data_lalu_lintas": "LN004",
+        "lokasi": "Jalan Thamrin",
+        "waktu": "2023-10-26 10:30:00",
+        "kondisi_lalu_lintas": "macet_total",
+        "penutupan_jalan": true,
+        "rute_terputus": true,
+        "dampak_demo": "sangat_tinggi",
+        "jalur_alternatif": ["Jalan Sabang", "Jalan Wahid Hasyim"]
+      },
+      {
+        "id_data_lalu_lintas": "LN005",
+        "lokasi": "Jalan Medan Merdeka Barat",
+        "waktu": "2023-10-26 11:00:00",
+        "kondisi_lalu_lintas": "macet_total",
+        "penutupan_jalan": true,
+        "rute_terputus": true,
+        "dampak_demo": "sangat_tinggi",
+        "jalur_alternatif": ["Jalan Veteran", "Jalan Majapahit"]
+      },
+      {
+        "id_data_lalu_lintas": "LN006",
+        "lokasi": "Jalan Kebon Sirih",
+        "waktu": "2023-10-26 11:30:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Fachrudin", "Jalan H. Agus Salim"]
+      },
+      {
+        "id_data_lalu_lintas": "LN007",
+        "lokasi": "Jalan Veteran",
+        "waktu": "2023-10-26 12:00:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN008",
+        "lokasi": "Jalan Majapahit",
+        "waktu": "2023-10-26 12:30:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Gajah Mada", "Jalan Hayam Wuruk"]
+      },
+      {
+        "id_data_lalu_lintas": "LN009",
+        "lokasi": "Jalan Merdeka Selatan",
+        "waktu": "2023-10-26 13:00:00",
+        "kondisi_lalu_lintas": "macet_total",
+        "penutupan_jalan": true,
+        "rute_terputus": true,
+        "dampak_demo": "sangat_tinggi",
+        "jalur_alternatif": ["Jalan Ridwan Rais", "Jalan Medan Merdeka Timur"]
+      },
+      {
+        "id_data_lalu_lintas": "LN010",
+        "lokasi": "Jalan Imam Bonjol",
+        "waktu": "2023-10-26 13:30:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Diponegoro", "Jalan Teuku Umar"]
+      },
+      {
+        "id_data_lalu_lintas": "LN011",
+        "lokasi": "Jalan Menteng Raya",
+        "waktu": "2023-10-26 14:00:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN012",
+        "lokasi": "Jalan Cikini Raya",
+        "waktu": "2023-10-26 14:30:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Kramat Raya", "Jalan Proklamasi"]
+      },
+      {
+        "id_data_lalu_lintas": "LN013",
+        "lokasi": "Jalan Salemba Raya",
+        "waktu": "2023-10-26 15:00:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN014",
+        "lokasi": "Jalan Diponegoro",
+        "waktu": "2023-10-26 15:30:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Pangeran Diponegoro", "Jalan Teuku Cik Ditiro"]
+      },
+      {
+        "id_data_lalu_lintas": "LN015",
+        "lokasi": "Jalan Proklamasi",
+        "waktu": "2023-10-26 16:00:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN016",
+        "lokasi": "Jalan HR Rasuna Said",
+        "waktu": "2023-10-26 16:30:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Casablanca", "Jalan Prof. Dr. Satrio"]
+      },
+      {
+        "id_data_lalu_lintas": "LN017",
+        "lokasi": "Jalan Jenderal Sudirman",
+        "waktu": "2023-10-26 17:00:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Senopati", "Jalan Gatot Subroto"]
+      },
+      {
+        "id_data_lalu_lintas": "LN018",
+        "lokasi": "Jalan MH Thamrin",
+        "waktu": "2023-10-26 17:30:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Kebon Sirih", "Jalan Wahid Hasyim"]
+      },
+      {
+        "id_data_lalu_lintas": "LN019",
+        "lokasi": "Jalan Asia Afrika",
+        "waktu": "2023-10-26 18:00:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN020",
+        "lokasi": "Jalan Pintu Satu Senayan",
+        "waktu": "2023-10-26 18:30:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN021",
+        "lokasi": "Jalan Gatot Subroto",
+        "waktu": "2023-10-26 19:00:00",
+        "kondisi_lalu_lintas": "padat",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "sedang",
+        "jalur_alternatif": ["Jalan Rasuna Said", "Jalan MT Haryono"]
+      },
+      {
+        "id_data_lalu_lintas": "LN022",
+        "lokasi": "Jalan Sisingamangaraja",
+        "waktu": "2023-10-26 19:30:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN023",
+        "lokasi": "Jalan Pattimura",
+        "waktu": "2023-10-26 20:00:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN024",
+        "lokasi": "Jalan Trunojoyo",
+        "waktu": "2023-10-26 20:30:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      },
+      {
+        "id_data_lalu_lintas": "LN025",
+        "lokasi": "Jalan Hang Tuah Raya",
+        "waktu": "2023-10-26 21:00:00",
+        "kondisi_lalu_lintas": "lancar",
+        "penutupan_jalan": false,
+        "rute_terputus": false,
+        "dampak_demo": "rendah",
+        "jalur_alternatif": []
+      }
+    ]
+  }
+}
