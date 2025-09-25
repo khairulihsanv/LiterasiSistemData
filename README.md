@@ -1,0 +1,1 @@
+sebagai programmer berpengalaman, tugasmu adalah mengubah file JSON ini menjadi file excel (.xlx) dalam bentuk tabel yang berisi 25 data pada 4 sumber dengan memisahkan antara 4 sumber tersebut, pastikan untuk menghasilkan file yang mudah dipahami dan berfungsi secara optimal https://chatgpt.com/share/68d4c947-10ec-800d-9d20-20f4d7ce055b
